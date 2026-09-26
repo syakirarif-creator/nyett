@@ -1,5 +1,7 @@
-streamlit
-matplotlib
-pandas
-numpy
-ezdxf
+streamlit==1.42.0
+streamlit-folium==0.23.0
+folium==0.17.0
+pandas==2.2.0
+matplotlib==3.10.0
+shapely==2.0.6
+pydeck==0.9.1
